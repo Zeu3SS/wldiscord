@@ -1,0 +1,17 @@
+Salut,
+
+Dans le Dossier Discord_perms ;
+Dans config.lua changez le
+[tokenBot] 
+Pour avoir le token d'un bot : [ https://discord.com/developers/applications ]
+Creer une Application puis Clicker sur Build a Bot 
+Et Prennez son token 
+Guild ID : [id]
+
+Dans le Dossier DiscordWhitelist ;
+
+Dans server.lua :
+Mettre le roles Id du Role WhiteList
+
+Changez la Phrase  "Vous n'êtes pas Whitelist,Rendez vous sur Discord :" 
+
